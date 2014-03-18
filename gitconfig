@@ -9,7 +9,9 @@
 
         st = status -s 
 
-        newb = checkout -b  
+        newb = checkout -b 
+
+        br = branch  
 
 [color]
 branch = auto
