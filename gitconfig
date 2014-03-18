@@ -9,6 +9,8 @@
 
         st = status -s 
 
+        newb = checkout -b  
+
 [color]
 branch = auto
 diff = auto
